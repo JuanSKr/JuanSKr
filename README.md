@@ -7,9 +7,9 @@
 
 - 📝 Backend developer
 
-- 📫 How to reach me **SkrriptTech@gmail.com**
+- 📫 How to reach me: **SkrriptTech@gmail.com**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning: **Java**
 
 
 <div align="left">
