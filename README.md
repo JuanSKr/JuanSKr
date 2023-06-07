@@ -9,14 +9,15 @@
 
 - 📫 How to reach me: **SkrriptTech@gmail.com**
 
-- 🌱 I’m currently learning: **Java**
+- 📚 I’m currently learning: **Kotlin**
 
 
 <div align="left">
-    <h3>🔨 Languages and Tools:</h3>
+    <h3>⚒️ Technologies and Skills:</h3>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" **alt="Java" width="50" height="50"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
+        <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="OracleSQL"  alt="OracleSQL" width="50" height="50"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="35" height="35"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="35" height="35"/>&nbsp;
