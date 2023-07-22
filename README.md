@@ -9,9 +9,6 @@
 
 - 📫 How to reach me: **SkrriptTech@gmail.com**
 
-- 📚 I’m currently learning: **Kotlin**
-
-
 <div align="left">
     <h3>⚒️ Technologies and Skills:</h3>
     <div>
