@@ -3,11 +3,7 @@
     <h3 align="center">Programming student from Spain</h3>
 </div>
 
-### 👨‍💻 About Me :
-
-- 📝 Backend developer
-
-- 📫 How to reach me: **SkrriptTech@gmail.com**
+ ### 📫 How to reach me: **SkrriptTech@gmail.com**
 
 <div align="left">
     <h3>⚒️ Technologies and Skills:</h3>
