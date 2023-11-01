@@ -9,14 +9,14 @@
     <h3>⚒️ Technologies and Skills:</h3>
     <div>
         <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" **alt="Java" width="50" height="50"/>
+                <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="35" height="35"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="OracleSQL"  alt="OracleSQL" width="50" height="50"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="35" height="35"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="35" height="35"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="35" height="35"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-plain.svg" title="Android Studio" alt="Android Studio" width="35" height="35"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="BootStrap" alt="BootStrap" width="35" height="35"/>&nbsp;
+        <img src="https://miro.medium.com/v2/resize:fit:1400/1*CIHazLUXhBCxiho2mE2glQ.png" title="Springboot" alt="Springboot" width="35" height="35"/>&nbsp;
 </div>
 
 ---
