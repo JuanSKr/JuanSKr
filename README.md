@@ -8,15 +8,18 @@
 <div align="left">
     <h3>⚒️ Technologies and Skills:</h3>
     <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" **alt="Java" width="50" height="50"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" **alt="Python" width="50" height="50"/>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="35" height="35"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" title="Java" **alt="Java" width="50" height="50"/>
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" title="Python" **alt="Python" width="50" height="50"/>
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" title="Kotlin" alt="Kotlin" width="50" height="50"/>&nbsp;
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" title="PostgreSQL"  alt="PostgreSQL" width="50" height="50"/>&nbsp;
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" title="SQLite"  alt="SQLite" width="50" height="50"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="OracleSQL"  alt="OracleSQL" width="50" height="50"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="35" height="35"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="35" height="35"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="BootStrap" alt="BootStrap" width="35" height="35"/>&nbsp;
-        <img src="https://darthill.mx/wp-content/uploads/2021/09/31-314820_logo-spring-spring-framework-logo-svg.png" title="Spring" alt="Spring" width="35" height="35"/>&nbsp;
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" title="Spring" alt="Spring" width="50" height="50"/>&nbsp;
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Hibernate-Dark.svg" title="Hibernate" alt="Hibernate" width="50" height="50"/>&nbsp;
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" title="BootStrap" alt="BootStrap" width="50" height="50"/>&nbsp;
 </div>
 
 ---
