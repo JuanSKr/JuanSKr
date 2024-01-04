@@ -13,9 +13,9 @@
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" title="Kotlin" alt="Kotlin" width="50" height="50"/>&nbsp;
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" title="MySQL"  alt="MySQL" width="50" height="50"/>&nbsp;
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" title="PostgreSQL"  alt="PostgreSQL" width="50" height="50"/>&nbsp;
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/SQLite.svg" title="SQLite"  alt="SQLite" width="50" height="50"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="OracleSQL"  alt="OracleSQL" width="50" height="50"/>&nbsp;
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" title="Spring" alt="Spring" width="50" height="50"/>&nbsp;
+        <img src="https://i.imgur.com/bd414g1.png" title="SQLite"  alt="SQLite" width="50" height="50"/>&nbsp;
+        <img src="https://i.imgur.com/yFkUuqA.png" title="OracleSQL"  alt="OracleSQL" width="50" height="50"/>&nbsp;
+        <img src="https://i.imgur.com/Y7Rp14Q.png" title="Spring" alt="Spring" width="50" height="50"/>&nbsp;
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Hibernate-Dark.svg" title="Hibernate" alt="Hibernate" width="50" height="50"/>&nbsp;
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
