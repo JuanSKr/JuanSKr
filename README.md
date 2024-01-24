@@ -3,7 +3,7 @@
     <h3 align="center">Programming student from Spain</h3>
 </div>
 
- ### 📫 How to reach me: **SkrriptTech@gmail.com**
+ ### 📫 How to reach me: **mr.juancg@gmail.com**
 
 <div align="left">
     <h3>⚒️ Technologies and Skills:</h3>
