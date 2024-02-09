@@ -18,6 +18,7 @@
         <img src="https://i.imgur.com/GozVibx.png" title="MongoDB"  alt="MongoDB" width="50" height="50"/>&nbsp;
         <img src="https://i.imgur.com/Y7Rp14Q.png" title="Spring Framework" alt="Spring Framework" width="50" height="50"/>&nbsp;
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Hibernate-Dark.svg" title="Hibernate" alt="Hibernate" width="50" height="50"/>&nbsp;
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" **alt="JavaScript" width="50" height="50"/>
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" title="BootStrap" alt="BootStrap" width="50" height="50"/>&nbsp;
