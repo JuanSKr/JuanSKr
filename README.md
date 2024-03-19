@@ -1,6 +1,5 @@
 <div id="header" align="center">
     <h1 align="center">Hi 👋, I'm Juan</h1>
-    <h3 align="center">Programming student from Spain</h3>
 </div>
 
  ### 📫 How to reach me: **mr.juancg@gmail.com**
