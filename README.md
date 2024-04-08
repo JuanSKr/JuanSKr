@@ -16,6 +16,7 @@
         <h3>Backend</h3>
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" title="Java" alt="Java" width="50" height="50"/>
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" title="Python" alt="Python" width="50" height="50"/>
+        <img src="https://i.imgur.com/42Qmhjv.png" title="Microsoft AL" alt="Microsoft AL" width="50" height="50"/>
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Kotlin-Dark.svg" title="Kotlin" alt="Kotlin" width="50" height="50"/>
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>
         <img src="https://i.imgur.com/Y7Rp14Q.png" title="Spring Framework" alt="Spring Framework" width="50" height="50"/>
