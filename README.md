@@ -33,6 +33,7 @@
     <div>
         <h3>Database</h3>
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" title="MySQL" alt="MySQL" width="50" height="50"/>
+        <img src="https://i.imgur.com/4fNopPk.png" title="Microsoft SQL Server" alt="Microsoft SQL Server" width="50" height="50"/>
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" title="PostgreSQL" alt="PostgreSQL" width="50" height="50"/>
         <img src="https://i.imgur.com/bd414g1.png" title="SQLite" alt="SQLite" width="50" height="50"/>
         <img src="https://i.imgur.com/yFkUuqA.png" title="OracleSQL" alt="OracleSQL" width="50" height="50"/>
@@ -41,15 +42,16 @@
     </div>
     <div>
         <h3>Tools</h3>
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" title="Vs" alt="VsC" width="50" height="50"/>
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="VsCode" alt="VsCode" width="50" height="50"/>
+        <img src="https://i.imgur.com/dhVjlUe.png" title="JetBrains" alt="JetBrains" width="50" height="50"/>
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" title="AndroidStudio" alt="AndroidStudio" width="50" height="50"/>
+        <img src="https://i.imgur.com/9KEJxeE.png" title="Microsoft Dynamics 365 Business Central" alt="Microsoft Dynamics 365 Business Central" width="50" height="50"/>
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" title="Linux" alt="Linux" width="50" height="50"/>
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="Git" alt="Git" width="50" height="50"/>
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" title="GitHub" alt="GitHub" width="50" height="50"/>
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" title="Postman" alt="Postman" width="50" height="50"/>
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" title="Docker" alt="Docker" width="50" height="50"/>
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" title="Vs" alt="VsC" width="50" height="50"/>
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" title="VsCode" alt="VsCode" width="50" height="50"/>
-        <img src="https://i.imgur.com/dhVjlUe.png" title="JetBrains" alt="JetBrains" width="50" height="50"/>
-        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Dark.svg" title="AndroidStudio" alt="AndroidStudio" width="50" height="50"/>
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Maven-Dark.svg" title="Maven" alt="Maven" width="50" height="50"/>
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gradle-Dark.svg" title="Gradle" alt="Gradle" width="50" height="50"/>
     </div>
