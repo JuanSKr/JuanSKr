@@ -49,6 +49,7 @@
         <img src="https://i.imgur.com/9KEJxeE.png" title="Microsoft Dynamics 365 Business Central" alt="Microsoft Dynamics 365 Business Central" width="50" height="50"/>
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" title="Linux" alt="Linux" width="50" height="50"/>
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="Git" alt="Git" width="50" height="50"/>
+        <img src="https://i.imgur.com/fMPw1I7.png" title="Azure DevOps" alt="Azure DevOps" width="50" height="50"/>
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" title="GitHub" alt="GitHub" width="50" height="50"/>
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" title="Postman" alt="Postman" width="50" height="50"/>
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" title="Docker" alt="Docker" width="50" height="50"/>
