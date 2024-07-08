@@ -63,5 +63,4 @@
 <div align="center">
     <p>Find me on:</p>
     <a href="https://github.com/JuanSKr">GitHub</a> |
-    <a href="https://www.linkedin.com/in/juansk/">LinkedIn</a>
 </div>
