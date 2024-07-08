@@ -7,7 +7,7 @@
 
 <div align="center">
     <h2>📫 How to reach me:</h2>
-    <p>mr.juancg@gmail.com</p>
+    <p>skrriptcontacto@gmail.com</p>
 </div>
 
 <div align="center">
@@ -62,5 +62,5 @@
 
 <div align="center">
     <p>Find me on:</p>
-    <a href="https://github.com/JuanSKr">GitHub</a> |
+    <a href="https://github.com/JuanSKr">GitHub</a>
 </div>
