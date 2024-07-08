@@ -7,7 +7,7 @@
 
 <div align="center">
     <h2>📫 How to reach me:</h2>
-    <p>skrriptcontacto@gmail.com</p>
+    <p>skrripttech@gmail.com</p>
 </div>
 
 <div align="center">
