@@ -59,8 +59,3 @@
 </div>
 
 ---
-
-<div align="center">
-    <p>Find me on:</p>
-    <a href="https://github.com/JuanSKr">GitHub</a>
-</div>
