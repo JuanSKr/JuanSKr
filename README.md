@@ -42,9 +42,9 @@
     </div>
         <div>
         <h3>AI & NLP Frameworks</h3>
-        <img src="https://i.imgur.com/dcz2dRG.png" title="Vs" alt="RASA" width="50" height="50"/>
-        <img src="https://i.imgur.com/qMwiZGA.png" title="Vs" alt="HuggingFace" width="50" height="50"/>
-        <img src="https://i.imgur.com/h9vm4Tm.png" title="Vs" alt="GPT" width="50" height="50"/>
+        <img src="https://i.imgur.com/dcz2dRG.png" title="RASA" alt="RASA" width="50" height="50"/>
+        <img src="https://i.imgur.com/qMwiZGA.png" title="HuggingFace" alt="HuggingFace" width="50" height="50"/>
+        <img src="https://i.imgur.com/h9vm4Tm.png" title="GPT" alt="GPT" width="50" height="50"/>
     </div>
     <div>
         <h3>Tools</h3>
