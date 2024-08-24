@@ -40,6 +40,12 @@
         <img src="https://i.imgur.com/GozVibx.png" title="MongoDB" alt="MongoDB" width="50" height="50"/>
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Hibernate-Dark.svg" title="Hibernate" alt="Hibernate" width="50" height="50"/>
     </div>
+        <div>
+        <h3>AI & NLP Frameworks</h3>
+        <img src="https://i.imgur.com/dcz2dRG.png" title="Vs" alt="RASA" width="50" height="50"/>
+        <img src="https://i.imgur.com/qMwiZGA.png" title="Vs" alt="HuggingFace" width="50" height="50"/>
+        <img src="https://i.imgur.com/h9vm4Tm.png" title="Vs" alt="GPT" width="50" height="50"/>
+    </div>
     <div>
         <h3>Tools</h3>
         <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg" title="Vs" alt="VsC" width="50" height="50"/>
