@@ -21,5 +21,5 @@
 
 <div align="center">
     <h2>📫 Contact</h2>
-    <p>contacto@skrript.es</p>
+    <p>jcastano@corpo.team</p>
 </div>
