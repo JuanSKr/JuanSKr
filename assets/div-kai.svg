@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="370" viewBox="0 0 1200 370" role="img" aria-label="DIV-03">
+<defs>
+  <pattern id="gridd3" width="40" height="40" patternUnits="userSpaceOnUse">
+    <path d="M40 0H0V40" fill="none" stroke="#FF1F3D" stroke-opacity=".07" stroke-width="1"/>
+  </pattern>
+  <pattern id="scand3" width="4" height="4" patternUnits="userSpaceOnUse">
+    <rect width="4" height="1" fill="#000" fill-opacity=".35"/>
+  </pattern>
+  <pattern id="hazd3" width="16" height="16" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+    <rect width="8" height="16" fill="#FFC72C"/>
+  </pattern>
+  <linearGradient id="beamd3" x1="0" x2="0" y1="0" y2="1">
+    <stop offset="0" stop-color="#FF1F3D" stop-opacity="0"/>
+    <stop offset="1" stop-color="#FF1F3D" stop-opacity=".22"/>
+  </linearGradient>
+  <radialGradient id="glowd3" cx=".3" cy=".45" r=".7">
+    <stop offset="0" stop-color="#FF1F3D" stop-opacity=".18"/>
+    <stop offset="1" stop-color="#FF1F3D" stop-opacity="0"/>
+  </radialGradient></defs>
+<style>.mono{font-family:'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace} .sans{font-family:'Helvetica Neue','Segoe UI',Arial,sans-serif} .jp{font-family:'Hiragino Sans','Yu Gothic','Noto Sans JP','Noto Sans CJK JP','MS Gothic',sans-serif}
+.blink{animation:b 1.1s steps(1) infinite} @keyframes b{50%{opacity:0}}
+.pulse{animation:p 2.4s ease-in-out infinite} @keyframes p{0%,100%{opacity:.95}50%{opacity:.45}}
+.beam{animation:sc 4.5s linear infinite} @keyframes sc{from{transform:translateY(-80px)}to{transform:translateY(390px)}}
+.wave rect{transform-box:fill-box;transform-origin:center;animation:wv 1.1s ease-in-out infinite}
+@keyframes wv{0%,100%{transform:scaleY(.25)}50%{transform:scaleY(1)}}
+.knob{animation:kn 4s ease-in-out infinite} @keyframes kn{0%,15%{transform:translateX(0)}25%,85%{transform:translateX(26px)}95%,100%{transform:translateX(0)}}</style>
+<rect width="1200" height="370" fill="#050506"/>
+<rect width="1200" height="370" fill="url(#gridd3)"/>
+<polygon points="10,10 1170,10 1190,30 1190,360 30,360 10,340" fill="#0B0B0E" stroke="#00F0FF" stroke-opacity=".35"/>
+<rect x="10" y="10" width="6" height="330" fill="#00F0FF"/>
+<text x="150" y="310" text-anchor="middle" class="jp" font-size="120" font-weight="900" fill="#00F0FF" fill-opacity=".09">知能</text>
+<text x="44" y="62" class="mono" font-size="14" letter-spacing="4" fill="#8A8D93">DIVISION</text>
+<text x="40" y="128" class="mono" font-size="64" font-weight="800" fill="#00F0FF">DIV-03</text>
+<text x="44" y="166" class="jp" font-size="18" letter-spacing="6" fill="#8A8D93">知能</text>
+<path d="M270 40V334" stroke="#00F0FF" stroke-opacity=".35"/>
+<text x="1160" y="52" text-anchor="end" class="mono" font-size="13" letter-spacing="3" fill="#00F0FF"><tspan class="blink">●</tspan> PRODUCT LINE // 2 APPS</text>
+<text x="300" y="76" class="sans" font-size="42" font-weight="800" letter-spacing="6" fill="#EDEBE6">KAI</text><text x="404" y="74" class="mono" font-size="13" letter-spacing="3" fill="#8A8D93">DESKTOP APPS // PUBLISHED BY CORPO SOLUTIONS</text><rect x="300" y="128" width="420" height="200" fill="#00F0FF" fill-opacity=".03" stroke="#00F0FF" stroke-opacity=".3"/><path d="M300 140V128H312 M708 128H720V140 M720 316V328H708 M312 328H300V316"
+    fill="none" stroke="#00F0FF" stroke-width="2"/><text x="320" y="166" class="sans" font-size="24" font-weight="800" letter-spacing="4" fill="#EDEBE6">KAI DNS</text><text x="700" y="164" text-anchor="end" class="mono" font-size="12" letter-spacing="1" fill="#00F0FF">kai-dns.com</text><path d="M320 180H700" stroke="#00F0FF" stroke-opacity=".25"/><text x="320" y="208" class="sans" font-size="15.5" fill="#EDEBE6" fill-opacity=".88">One click to switch DNS and route around IP blocks.</text><text x="320" y="232" class="sans" font-size="15.5" fill="#EDEBE6" fill-opacity=".88">Local DNS engine on your PC → Cloudflare / Quad9.</text><text x="320" y="256" class="sans" font-size="15.5" fill="#EDEBE6" fill-opacity=".88">Uninstall it and it was never there.</text><rect x="320" y="288" width="50" height="24" fill="none" stroke="#00F0FF" stroke-opacity=".7"/><text x="345.0" y="305" text-anchor="middle" class="mono" font-size="11" letter-spacing="1" fill="#00F0FF">RUST</text><rect x="380" y="288" width="74" height="24" fill="none" stroke="#00F0FF" stroke-opacity=".7"/><text x="417.0" y="305" text-anchor="middle" class="mono" font-size="11" letter-spacing="1" fill="#00F0FF">WINDOWS</text><rect x="464" y="288" width="186" height="24" fill="none" stroke="#00F0FF" stroke-opacity=".7"/><text x="557.0" y="305" text-anchor="middle" class="mono" font-size="11" letter-spacing="1" fill="#00F0FF">ANTI-BLOCK / DNS-ONLY</text><g transform="translate(470 147)"><rect width="56" height="26" rx="13" fill="#00F0FF" fill-opacity=".12" stroke="#00F0FF"/><circle class="knob" cx="15" cy="13" r="9" fill="#00F0FF"/></g><rect x="740" y="128" width="420" height="200" fill="#00F0FF" fill-opacity=".03" stroke="#00F0FF" stroke-opacity=".3"/><path d="M740 140V128H752 M1148 128H1160V140 M1160 316V328H1148 M752 328H740V316"
+    fill="none" stroke="#00F0FF" stroke-width="2"/><text x="760" y="166" class="sans" font-size="24" font-weight="800" letter-spacing="4" fill="#EDEBE6">KAI VOICE</text><text x="1140" y="164" text-anchor="end" class="mono" font-size="12" letter-spacing="1" fill="#00F0FF"></text><path d="M760 180H1140" stroke="#00F0FF" stroke-opacity=".25"/><text x="760" y="208" class="sans" font-size="15.5" fill="#EDEBE6" fill-opacity=".88">High-accuracy speech recognition.</text><text x="760" y="232" class="sans" font-size="15.5" fill="#EDEBE6" fill-opacity=".88">Transcription in about one second.</text><text x="760" y="256" class="sans" font-size="15.5" fill="#EDEBE6" fill-opacity=".88">Talk instead of typing.</text><rect x="760" y="288" width="162" height="24" fill="none" stroke="#00F0FF" stroke-opacity=".7"/><text x="841.0" y="305" text-anchor="middle" class="mono" font-size="11" letter-spacing="1" fill="#00F0FF">SPEECH RECOGNITION</text><rect x="932" y="288" width="42" height="24" fill="none" stroke="#00F0FF" stroke-opacity=".7"/><text x="953.0" y="305" text-anchor="middle" class="mono" font-size="11" letter-spacing="1" fill="#00F0FF">~1s</text><g class="wave" transform="translate(1052 146)"><rect x="0" y="0" width="5" height="28" fill="#00F0FF" style="animation-delay:-0.00s"/><rect x="9" y="0" width="5" height="28" fill="#00F0FF" style="animation-delay:-0.37s"/><rect x="18" y="0" width="5" height="28" fill="#00F0FF" style="animation-delay:-0.74s"/><rect x="27" y="0" width="5" height="28" fill="#00F0FF" style="animation-delay:-0.01s"/><rect x="36" y="0" width="5" height="28" fill="#00F0FF" style="animation-delay:-0.38s"/><rect x="45" y="0" width="5" height="28" fill="#00F0FF" style="animation-delay:-0.75s"/><rect x="54" y="0" width="5" height="28" fill="#00F0FF" style="animation-delay:-0.02s"/><rect x="63" y="0" width="5" height="28" fill="#00F0FF" style="animation-delay:-0.39s"/><rect x="72" y="0" width="5" height="28" fill="#00F0FF" style="animation-delay:-0.76s"/><rect x="81" y="0" width="5" height="28" fill="#00F0FF" style="animation-delay:-0.03s"/><rect x="90" y="0" width="5" height="28" fill="#00F0FF" style="animation-delay:-0.40s"/><rect x="99" y="0" width="5" height="28" fill="#00F0FF" style="animation-delay:-0.77s"/></g>
+<rect class="beam" x="10" y="0" width="1180" height="80" fill="url(#beamd3)"/>
+<rect width="1200" height="370" fill="url(#scand3)"/>
+</svg>
